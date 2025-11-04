@@ -1,7 +1,5 @@
 ![Presa 2 Logo Text](https://cdn.modrinth.com/data/cached_images/da7c6c82bb34de3a2ef1deaf49cd705637bf8449.png)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rtp8pVwUFJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # What Is Presa 2 
 [Join Discord](https://discord.gg/PhsMp452zP)
 
